@@ -1,0 +1,6 @@
+username = "Admin"
+password = "admin123"
+firstname = "preshit"
+middlename = "nanaji"
+lastname = "dahare"
+url = "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
